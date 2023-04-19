@@ -1,1 +1,1 @@
-<button onclick="console.log('hello github')">xss</button>
+<a onclick="console.log('hello github')">xss</a>
